@@ -1,4 +1,4 @@
-# Capstone-Project-Modul-3
+## Capstone-Project-Modul-3 (Penerapan Model Machine Learning (ML) dalam Deposito Perbankan
 
 ## **Permasalahan**
 Terdapat sebuah Perusahaan Perbankan yang bergerak dalam bidang deposito yang sedang melakukan analisis serta manajemen pengeluaran keuangan dari Perusahaan. Permasalahan pengeluaran keuangan Perusahaan akan berfokus ketika terjadi salah prediksi mengenai calon Nasabah yang diprediksi akan melakukan deposito namun aktualnya calon Nasabah tersebut tidak melakukan deposito. Maka dari itu Perusahaan yang sebelumnya telah mengeluarkan biaya pelayanan terhadap calon Nasabah karena dianggap akan melakukan deposito namun kenyataannya Nasabah tersebut tidak melakukan deposito. Biaya yang dikeluarkan untuk setiap Nasabah untuk melakukan pelayanan adalah sebesar $50 per Nasabah.
