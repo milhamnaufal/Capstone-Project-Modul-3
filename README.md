@@ -9,7 +9,7 @@ Pemilihan Model Machine Learning: Memilih model machine learning yang tepat untu
 **Sistematika Penelitian:**
 
 1. Data Understanding: Memahami dataset yang diberikan untuk mendapatkan wawasan awal.
-2. ata Cleaning: Membersihkan dataset dari noise dan outlier, serta memilih fitur yang relevan.
+2. Data Cleaning: Membersihkan dataset dari noise dan outlier, serta memilih fitur yang relevan.
 3. Exploratory Data Analysis (EDA): Menggali insight dari data melalui visualisasi.
 4. Define Variable: Mendefinisikan variabel feature dan target.
 5. Data Splitting: Membagi data menjadi data training dan testing.
